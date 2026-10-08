@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu28771/aps/tree/master/0901-online-stock-span) |
 | [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28771/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28771/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
