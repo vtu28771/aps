@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu28771/aps/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28771/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28771/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28771/aps/tree/master/1480-running-sum-of-1d-array) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu28771/aps/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28771/aps/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu28771/aps/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28771/aps/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28771/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu28771/aps/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu28771/aps/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
