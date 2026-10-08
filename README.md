@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu28771/aps/tree/master/0901-online-stock-span) |
+| [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
 ## Design
 |  |
 | ------- |
@@ -31,4 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu28771/aps/tree/master/0933-number-of-recent-calls) |
+| [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
+## String
+|  |
+| ------- |
+| [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
 <!---LeetCode Topics End-->
