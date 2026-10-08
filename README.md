@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu28771/aps/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28771/aps/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28771/aps/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/vtu28771/aps/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/vtu28771/aps/tree/master/0901-online-stock-span) |
 | [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28771/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vtu28771/aps/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/vtu28771/aps/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu28771/aps/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
