@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28771/aps/tree/master/0094-binary-tree-inorder-traversal) |
 | [0901-online-stock-span](https://github.com/vtu28771/aps/tree/master/0901-online-stock-span) |
 | [0936-stamping-the-sequence](https://github.com/vtu28771/aps/tree/master/0936-stamping-the-sequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28771/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28771/aps/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28771/aps/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28771/aps/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28771/aps/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
